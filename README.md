@@ -22,5 +22,16 @@ Kaggle link to Download the dataset: [Chest X-Ray Images(pneumonia)](https://www
 
 
 
+## Contributors
+<a href="https://github.com/SaiSwarup27/SaiSwarup27/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SaiSwarup27/SaiSwarup27" />
+</a>
+<a href="https://github.com/Manishankar9977/Manishankar9977/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Manishankar9977/Manishankar9977" />
+</a>
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
+  
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
