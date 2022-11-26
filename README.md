@@ -12,3 +12,15 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 Kaggle link to Download the dataset: [Chest X-Ray Images(pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
+
+## Working flow
+
+
+
+
+
+
+
+
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
