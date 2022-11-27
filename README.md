@@ -21,7 +21,6 @@ The CNN-based deep neural system is widely used in the medical classification ta
 
 ### Sample output
 <p align="center" width="100%">
-    <img width="30%" src="https://user-images.githubusercontent.com/96674419/204123900-6f106b29-b6b2-4da9-be60-2d313480232f.png">
     <img width="30%" src="https://user-images.githubusercontent.com/96674419/204122201-32d0f004-6c2d-420e-b5cc-804a40035c22.png">
 </p>
 
