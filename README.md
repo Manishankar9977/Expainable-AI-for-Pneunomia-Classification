@@ -17,10 +17,10 @@ The CNN-based deep neural system is widely used in the medical classification ta
 <p align="center"><br>
   <img src="https://user-images.githubusercontent.com/96674419/204122119-957e08ca-bb73-4e97-bd8b-00646370d5b5.png" width=50% ><p/>
 <p>
- 
+![image](https://user-images.githubusercontent.com/96674419/204123922-777107c3-1ad3-4893-a7fc-71db164e2b92.png)
+
 ### Sample output
 <p align="center" width="100%">
-    <img width="30%" src="https://github.com/Manishankar9977/Expainable-AI-for-Pneunomia-Classification/blob/main/test/Normal/IM-0009-0001.jpeg?raw=true">
     <img width="30%" src="https://user-images.githubusercontent.com/96674419/204122201-32d0f004-6c2d-420e-b5cc-804a40035c22.png">
 </p>
 
